@@ -1,2 +1,2 @@
-<img src="https://github.com/Adyson-Lima/Adyson-Lima/blob/main/Full(1).png?raw=true" width="845" height="400">
+<img src="https://github.com/Adyson-Lima/Adyson-Lima/blob/main/capa.jpg" width="820" height="400">
 
